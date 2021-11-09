@@ -1,1 +1,2 @@
-# CS3
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
